@@ -8,6 +8,8 @@ Shop Shop is an e-commerce application that allows users to shop for various ite
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Help was offered by Jose!
+
 ## Deployed Application 
 
 [Shop Shop](/)<br />
