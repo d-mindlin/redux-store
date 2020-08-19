@@ -12,6 +12,6 @@ Help was offered by Jose!
 
 ## Deployed Application 
 
-[Shop Shop](/)<br />
-![Image]()<br />
+[Shop Shop](https://redux-mindl.herokuapp.com/)<br />
+
 
